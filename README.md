@@ -12,13 +12,13 @@ João Carlos Peliçon</a></h1>
 
 - 🔭 I’m currently working in <a href="https://jera.com.br/" target="blank">Jera</a>
 
-- 🌱 I’m currently Working on Mobile App(Kotlin)
+- 🌱 I’m currently Working on Mobile App(Flutter&&Kotlin)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Dart & Flutter <a href="https://github.com/jaumpelicon/pokedex_flutter" target="blank">Pokedex Flutter</a>
+- 🌱 I’m currently learning patterns, english and good habits.
 
-- 💬 Ask me about **Kotlin & Android developer**
+- 💬 Ask me about **Kotlin & Flutter & Android developer**
 
 - 📫 How to reach me **peliconjoao@gmail.com**
 
