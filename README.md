@@ -18,7 +18,7 @@ João Carlos Peliçon</a></h1>
 
 - 🌱 I’m currently learning patterns, english and good habits.
 
-- 💬 Ask me about **Kotlin & Flutter & Android developer**
+- 💬 Ask me about **Kotlin & Flutter**
 
 - 📫 How to reach me **peliconjoao@gmail.com**
 
