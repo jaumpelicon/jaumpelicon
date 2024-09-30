@@ -4,7 +4,7 @@ João Carlos Peliçon</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumpelicon" alt="jaumpelicon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/izukoffee" target="blank"><img src="https://img.shields.io/twitter/follow/izukoffee?logo=twitter&style=for-the-badge" alt="izukoffee" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/jaumpelicon/" target="blank"><img src="https://img.shields.io/twitter/follow/jaumpelicon?logo=instagram&style=for-the-badge" alt="izukoffee" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
