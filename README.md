@@ -1,44 +1,137 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/pelicon-joao/" target="blank">
-João Carlos Peliçon</a></h1>
-<h3 align="center">A passionate mobile app developer from Brazil</h3>
+<h1 align="center">
+  🚀 João Carlos Peliçon Ramos
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumpelicon" alt="jaumpelicon" /> </p>
+<h3 align="center">
+  Senior Mobile Engineer | Flutter & Kotlin Specialist | Product-Oriented Developer
+</h3>
 
-<p align="left"> <a href="https://www.instagram.com/jaumpelicon/" target="blank"><img src="https://img.shields.io/twitter/follow/jaumpelicon?logo=instagram&style=for-the-badge" alt="izukoffee" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pelicon-joao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Peliçon-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:peliconjoao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jaumpelicon&style=for-the-badge"/>
+</p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<p align="center">
+  <a href="https://jaumpelicon.github.io/developer-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working in <a href="https://ciandt.com/br/pt-br/home" target="blank">CI&T</a>
+---
 
-- 🌱 I’m currently Working on Mobile App(Flutter&&Kotlin)
+## 👨🏻‍💻 About Me
 
-- 🤝 I’m available for freelancing.
+Mobile Engineer passionate about building **scalable, high-performance and production-ready applications**.
 
-- 🌱 I’m currently learning patterns, english and good habits.
+I don't just build apps —  
+I build **architecture, performance, business impact and scalable systems**.
 
-- 💬 Ask me about **Kotlin & Flutter**
+- 🏢 Currently working at **CI&T**
+- 📱 Specialist in **Flutter & Native Android (Kotlin)**
+- 🧠 Strong knowledge in **Clean Architecture, Design Patterns & SOLID**
+- 🔥 Experience integrating mobile apps with robust backends (Node, Prisma, APIs)
+- 🚀 Founder mindset — building and scaling real products (ex: DinaFit)
+- 💬 Ask me about Mobile Architecture, State Management & Performance
 
-- 📫 How to reach me **peliconjoao@gmail.com**
+---
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+# 🌎 Personal Portfolio
+
+I maintain a structured and production-level portfolio showcasing:
+
+- Real-world mobile applications
+- Business-oriented systems
+- Architecture decisions
+- UI/UX execution
+- Backend integrations
+- Performance strategies
+
+🔗 Live here:
+👉 https://jaumpelicon.github.io/developer-portfolio/
+
+This portfolio reflects not just projects —  
+but **how I think, structure and ship software.**
+
+---
+
+# 🧠 Technical Expertise
+
+## 📱 Mobile Development
+
+- Flutter (Advanced)
+- Dart
+- Kotlin (Android Native)
+- Jetpack
+- Clean Architecture
+- MVVM / Modularization
+- State Management (Provider, Riverpod, Bloc)
+- Dependency Injection
+- Offline-first apps
+- Performance optimization
+- Animations & UI polishing
+
+---
+
+## 🏗 Architecture & Engineering
+
+- Clean Code
+- SOLID Principles
+- Design Patterns
+- Scalable project structure
+- Modular architecture
+- Feature-first organization
+- Code review & technical decision making
+- CI/CD pipelines
+
+---
+
+## 🌐 Backend & Fullstack Integration
+
+- Node.js
+- TypeScript
+- REST APIs
+- Prisma ORM
+- Database modeling
+- Authentication flows
+- WhatsApp API integrations
+- Bot architecture
+- Business logic structuring
+
+---
+
+## 🧩 Product & Business Vision
+
+I combine technical execution with business awareness.
+
+- Metrics-driven features
+- Sales automation systems
+- Mobile apps connected to real revenue
+- UX focused on conversion
+- Automation for small and medium businesses
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/pelicon-joao/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/jaumpelicon">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20372011/jo%c3%a3o-carlos-peli%c3%a7on">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/jaumpelicon/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/izukoffee">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC3yVqebEAs8g3c1AilwFJQw">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-      </div>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,ts,nodejs,prisma,postgres,firebase,git,github,vscode" />
 
 </p>
+
+---
+
+# 📊 Engineering Philosophy
+
+```txt
+Code must be:
+- Readable
+- Testable
+- Scalable
+- Maintainable
+- Business-driven
