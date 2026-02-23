@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Senior Mobile Engineer | Flutter & Kotlin Specialist | Product-Oriented Developer
+  Senior Mobile Engineer | Flutter Specialist 
 </h3>
 
 <p align="center">
